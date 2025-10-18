@@ -1,0 +1,38 @@
+Archive:  bin/foodlab-0.1.0-arm64-v8a-debug.apk
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+       57  1981-01-01 01:01   META-INF/com/android/build/gradle/app-metadata.properties
+     2608  1981-01-01 01:01   classes.dex
+    13840  1981-01-01 01:01   classes2.dex
+   106752  1981-01-01 01:01   classes3.dex
+     7424  1981-01-01 01:01   classes4.dex
+    30344  1981-01-01 01:01   classes5.dex
+  2180288  1981-01-01 01:01   lib/arm64-v8a/libSDL2.so
+   609784  1981-01-01 01:01   lib/arm64-v8a/libSDL2_image.so
+   431752  1981-01-01 01:01   lib/arm64-v8a/libSDL2_mixer.so
+  5008936  1981-01-01 01:01   lib/arm64-v8a/libSDL2_ttf.so
+  3085648  1981-01-01 01:01   lib/arm64-v8a/libcrypto1.1.so
+   102288  1981-01-01 01:01   lib/arm64-v8a/libffi.so
+    14768  1981-01-01 01:01   lib/arm64-v8a/libmain.so
+ 14846373  1981-01-01 01:01   lib/arm64-v8a/libpybundle.so
+  3266192  1981-01-01 01:01   lib/arm64-v8a/libpython3.10.so
+  1303936  1981-01-01 01:01   lib/arm64-v8a/libsqlite3.so
+   717088  1981-01-01 01:01   lib/arm64-v8a/libssl1.1.so
+ 11322969  1981-01-01 01:01   assets/private.tar
+     4104  1981-01-01 01:01   AndroidManifest.xml
+     2683  1981-01-01 01:01   res/drawable-hdpi-v4/ic_launcher.png
+     1698  1981-01-01 01:01   res/drawable-mdpi-v4/ic_launcher.png
+     3872  1981-01-01 01:01   res/drawable-xhdpi-v4/ic_launcher.png
+     6874  1981-01-01 01:01   res/drawable-xxhdpi-v4/ic_launcher.png
+    11584  1981-01-01 01:01   res/drawable/presplash.jpg
+     1104  1981-01-01 01:01   res/layout/chooser_item.xml
+      544  1981-01-01 01:01   res/layout/main.xml
+      692  1981-01-01 01:01   res/layout/project_chooser.xml
+      512  1981-01-01 01:01   res/layout/project_empty.xml
+     3229  1981-01-01 01:01   res/mipmap/icon.png
+     2664  1981-01-01 01:01   resources.arsc
+     3079  1981-01-01 01:01   META-INF/CERT.SF
+     1167  1981-01-01 01:01   META-INF/CERT.RSA
+     3005  1981-01-01 01:01   META-INF/MANIFEST.MF
+---------                     -------
+ 43097858                     33 files
